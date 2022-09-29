@@ -1,0 +1,17 @@
+
+{
+    "configurations": [
+        {
+            "name": "Python:Streamlit",
+            "type": "python",
+            "request": "launch",
+            "module": "streamlit",
+            
+            "args": [
+                
+                "run",
+                "${file}"
+            ]
+        }
+     ]
+}
