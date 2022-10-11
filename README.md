@@ -5,9 +5,9 @@
 The following repository includes the software tools and codes that Team Athens developed. In particular, 
 users can find three different folders, regarding:
 
-*The model of PERspectives
-*The PERspectives application
-*The Improve-A-Part ML analysis
+1. The model of PERspectives
+2. The PERspectives application
+3. The Improve-A-Part ML analysis
 
 Inside each folder we have a specialized README.md file where users can find installation, usage and contributing 
 elements for each sub-project. 
