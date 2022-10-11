@@ -13,7 +13,7 @@ Inside each folder we have a specialized README.md file where users can find ins
 elements for each sub-project. 
 
 ## Installation
-Installation instructions are included in the README.md of each folder
+All of the code is written in python. Thus users should install [python](https://www.python.org/downloads/) first on their PC. Other than that, installation instructions and the specific packages needed for each sub-project are included in the README.md of each folder
 
 ## Usage
 Usage examples and outputs are included in the README.md of each folder
