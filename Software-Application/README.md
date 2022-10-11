@@ -10,7 +10,7 @@ This folder includes the scripts and files needed in order to install the PERspe
 
 # Installation
 
-Required packages to be installed are included on the packages_app.sh file
+Required packages to be installed are included on the packages_app.sh file on the terminal. Then users should open the entire downloaded repository as it is and run the application.py script. The website interface should pop-up right after.
 
 # Usage 
 
