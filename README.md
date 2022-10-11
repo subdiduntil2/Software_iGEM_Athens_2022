@@ -23,4 +23,4 @@ Contribution to our project can be done either via adding a new branch on the re
 or by reporting bugs and errors by submitting an issue.
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+The software for all 3 different projects has been developed by the dry lab members of Team Athens. In terms of the Vienna RNA package installation and usage, we would like to thank the exceptional instructions on the [Github repository](https://github.com/NKalavros/mdpr-full) of iGEM Athens 2019.
