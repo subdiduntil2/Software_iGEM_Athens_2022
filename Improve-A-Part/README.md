@@ -3,7 +3,7 @@
 This Sub-repository includes the main .csv files and scripts in order to simulate the improve-a-part procedure that our team followed 
 to generate the context indepedent RBS BBa_0034 variants
 
-#Description
+# Description
 
 The sub-repository includes three main folders
 
@@ -12,12 +12,12 @@ The sub-repository includes three main folders
 3. The 'Unsupervised Learning' folder where the results from files Vienna_RNA_22s_after.csv and Vienna_RNA_16s_after.csv are imported 
 to the the modified_dataset_final.xlsx file via the create_final_dataset.ipynb script. Finally, we run the ML_pycaret_cls.ipynb script to perform the entire ML analysis and receive the resulting sequences.
 
-#Installation
+# Installation
 
 On each folder, we have included .sh files which include the Terminal commands ran to install the various packages.
 For the Improve-A-Part repo, those files are biopython.sh, vienna_rna_cmds.sh and ml_libraries.sh  for the installation of the biopython, Vienna RNA and pycaret libraries respectivelly.
 
-#Usage
+# Usage
 
 The main results from the python scripts are the .csv and .xlsx files created on each folder as described above and which have already been imported manually by us for exhibition. In terms of the ML classification, the resulted output sequences can be view on the final cell. 
 
